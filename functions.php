@@ -1,13 +1,13 @@
 <?php
 
-if( !class_exists('YellowJacket') ) :
+if( !class_exists('ThemeName') ) :
 
-	Class YellowJacket {
+	Class ThemeName {
 
 		/**
          * @var string
          */
-        public $version = '2.1.0';
+        public $version = '0.0.0';
 
         /**
          * Init
